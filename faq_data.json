@@ -1,0 +1,43 @@
+
+[
+  {
+    "question": "What are the symptoms of COVID-19?",
+    "answer": "Common COVID-19 symptoms include fever, cough, shortness of breath, fatigue, muscle aches, headache, loss of taste or smell, sore throat, congestion, nausea, and diarrhea. If you experience severe symptoms like difficulty breathing, persistent chest pain, or confusion, seek immediate medical attention."
+  },
+  {
+    "question": "How can I book an appointment with a doctor?",
+    "answer": "You can book a doctor's appointment by: 1) Calling your doctor's office directly, 2) Using your healthcare provider's online portal or mobile app, 3) Visiting walk-in clinics, 4) Using telemedicine platforms, or 5) Contacting your insurance provider for in-network doctors."
+  },
+  {
+    "question": "What is the normal blood pressure range?",
+    "answer": "Normal blood pressure is typically less than 120/80 mmHg. Elevated is 120-129 systolic and less than 80 diastolic. High blood pressure stage 1 is 130-139/80-89 mmHg, and stage 2 is 140/90 mmHg or higher. Consult your doctor for personalized advice."
+  },
+  {
+    "question": "How do I apply for health insurance?",
+    "answer": "You can apply for health insurance through: 1) Your employer's benefits portal, 2) Healthcare.gov (federal marketplace), 3) State insurance marketplaces, 4) Directly from insurance companies, or 5) Through insurance brokers. Open enrollment typically occurs annually, with special enrollment for qualifying life events."
+  },
+  {
+    "question": "What to do in case of a heart attack?",
+    "answer": "If someone is having a heart attack: 1) Call 911 immediately, 2) Have them sit down and rest, 3) Loosen tight clothing, 4) If they're not allergic, give them aspirin to chew, 5) If they become unconscious and you're trained, perform CPR. Don't drive them to the hospital yourself."
+  },
+  {
+    "question": "What are the symptoms of diabetes?",
+    "answer": "Common diabetes symptoms include excessive thirst, frequent urination, extreme fatigue, blurred vision, slow-healing cuts, frequent infections, unexplained weight loss (Type 1), and tingling in hands/feet. If you experience these symptoms, consult a healthcare provider for proper testing."
+  },
+  {
+    "question": "How often should I get a health checkup?",
+    "answer": "Generally, healthy adults should have annual checkups. However, frequency may vary based on age, health conditions, and risk factors. Adults over 40 or those with chronic conditions may need more frequent visits. Consult your doctor to determine the right schedule for you."
+  },
+  {
+    "question": "What should I do for a fever?",
+    "answer": "For fever management: 1) Rest and drink plenty of fluids, 2) Take over-the-counter fever reducers like acetaminophen or ibuprofen, 3) Use cool compresses, 4) Wear light clothing. Seek medical attention if fever exceeds 103°F (39.4°C), lasts more than 3 days, or is accompanied by severe symptoms."
+  },
+  {
+    "question": "How can I improve my mental health?",
+    "answer": "To improve mental health: 1) Regular exercise and healthy diet, 2) Adequate sleep (7-9 hours), 3) Practice stress management techniques, 4) Stay connected with friends and family, 5) Limit alcohol and avoid drugs, 6) Consider therapy or counseling, 7) Take breaks from social media and news."
+  },
+  {
+    "question": "What are the warning signs of a stroke?",
+    "answer": "Remember FAST: Face drooping, Arm weakness, Speech difficulty, Time to call 911. Other signs include sudden numbness, confusion, trouble seeing, severe headache, or difficulty walking. Stroke is a medical emergency - call 911 immediately if you notice these symptoms."
+  }
+]

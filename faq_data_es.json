@@ -1,0 +1,43 @@
+
+[
+  {
+    "question": "¿Cuáles son los síntomas de COVID-19?",
+    "answer": "Los síntomas comunes de COVID-19 incluyen fiebre, tos, dificultad para respirar, fatiga, dolores musculares, dolor de cabeza, pérdida del gusto o del olfato, dolor de garganta, congestión, náuseas y diarrea. Si experimentas síntomas graves como dificultad para respirar, dolor persistente en el pecho o confusión, busca atención médica inmediata."
+  },
+  {
+    "question": "¿Cómo puedo reservar una cita con un doctor?",
+    "answer": "Puedes reservar una cita con un doctor: 1) Llamando directamente al consultorio de tu doctor, 2) Usando el portal en línea o aplicación móvil de tu proveedor de atención médica, 3) Visitando clínicas sin cita previa, 4) Usando plataformas de telemedicina, o 5) Contactando a tu proveedor de seguros para doctores dentro de la red."
+  },
+  {
+    "question": "¿Cuál es el rango normal de presión arterial?",
+    "answer": "La presión arterial normal es típicamente menos de 120/80 mmHg. Elevada es 120-129 sistólica y menos de 80 diastólica. Presión arterial alta etapa 1 es 130-139/80-89 mmHg, y etapa 2 es 140/90 mmHg o más alto. Consulta a tu doctor para consejos personalizados."
+  },
+  {
+    "question": "¿Cómo solicito seguro de salud?",
+    "answer": "Puedes solicitar seguro de salud a través de: 1) El portal de beneficios de tu empleador, 2) Healthcare.gov (mercado federal), 3) Mercados de seguros estatales, 4) Directamente de compañías de seguros, o 5) A través de corredores de seguros. La inscripción abierta típicamente ocurre anualmente, con inscripción especial para eventos de vida calificados."
+  },
+  {
+    "question": "¿Qué hacer en caso de un ataque cardíaco?",
+    "answer": "Si alguien está teniendo un ataque cardíaco: 1) Llama al 911 inmediatamente, 2) Haz que se siente y descanse, 3) Afloja ropa ajustada, 4) Si no es alérgico, dale aspirina para masticar, 5) Si pierde el conocimiento y estás entrenado, realiza RCP. No lo conduzcas al hospital tú mismo."
+  },
+  {
+    "question": "¿Cuáles son los síntomas de la diabetes?",
+    "answer": "Los síntomas comunes de diabetes incluyen sed excesiva, micción frecuente, fatiga extrema, visión borrosa, cortes que sanan lentamente, infecciones frecuentes, pérdida de peso inexplicable (Tipo 1), y hormigueo en manos/pies. Si experimentas estos síntomas, consulta a un proveedor de atención médica para pruebas adecuadas."
+  },
+  {
+    "question": "¿Con qué frecuencia debo hacerme un chequeo médico?",
+    "answer": "Generalmente, los adultos sanos deben tener chequeos anuales. Sin embargo, la frecuencia puede variar según la edad, condiciones de salud y factores de riesgo. Adultos mayores de 40 o aquellos con condiciones crónicas pueden necesitar visitas más frecuentes. Consulta a tu doctor para determinar el horario correcto para ti."
+  },
+  {
+    "question": "¿Qué debo hacer para la fiebre?",
+    "answer": "Para el manejo de la fiebre: 1) Descansa y bebe mucho líquido, 2) Toma reductores de fiebre de venta libre como acetaminofén o ibuprofeno, 3) Usa compresas frías, 4) Usa ropa ligera. Busca atención médica si la fiebre excede 103°F (39.4°C), dura más de 3 días, o está acompañada de síntomas graves."
+  },
+  {
+    "question": "¿Cómo puedo mejorar mi salud mental?",
+    "answer": "Para mejorar la salud mental: 1) Ejercicio regular y dieta saludable, 2) Sueño adecuado (7-9 horas), 3) Practica técnicas de manejo del estrés, 4) Mantente conectado con amigos y familia, 5) Limita el alcohol y evita las drogas, 6) Considera terapia o consejería, 7) Toma descansos de las redes sociales y noticias."
+  },
+  {
+    "question": "¿Cuáles son las señales de advertencia de un derrame cerebral?",
+    "answer": "Recuerda FAST: Caída facial, Debilidad en el brazo, Dificultad del habla, Tiempo de llamar al 911. Otras señales incluyen entumecimiento repentino, confusión, problemas para ver, dolor de cabeza severo, o dificultad para caminar. El derrame es una emergencia médica - llama al 911 inmediatamente si notas estos síntomas."
+  }
+]
